@@ -1,0 +1,9 @@
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.csprojAssemblyReference.cache
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.Form1.resources
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.Properties.Resources.resources
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.csproj.GenerateResource.cache
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\salaz\OneDrive\Escritorio\Practica7\Practica7\obj\Debug\Practica7.pdb
